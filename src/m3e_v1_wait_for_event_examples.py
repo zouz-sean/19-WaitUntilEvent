@@ -13,7 +13,7 @@ but using the ITCH pattern for WHILE loops.
 
 Authors: David Mutchler, Amanda Stouder, Valerie Galluzzi,
          Chandan Rupakheti, Katie Dion, Claude Anderson, Delvin Defoe,
-         Curt Clifton, Matt Boutell, and their colleagues. October 2016.
+         Curt Clifton, Matt Boutell, and their colleagues.
 """
 # ----------------------------------------------------------------------
 # Students: Read and run this program.  There is nothing else

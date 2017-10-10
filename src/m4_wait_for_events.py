@@ -24,16 +24,16 @@ The WHILE TRUE pattern:
 Ultimately you should be comfortable with both approaches.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.  October 2016.
+         their colleagues and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 def main():
     """ Calls the   TEST   functions in this module. """
-    test_sum_until_prime_input()
-    test_next_prime()
-    test_prime_gap()
-    test_wait_for_sum_of_cubes()
+    run_test_sum_until_prime_input()
+    run_test_next_prime()
+    run_test_prime_gap()
+    run_test_wait_for_sum_of_cubes()
 
 
 def is_prime(n):
@@ -55,14 +55,14 @@ def is_prime(n):
     return True
     # ------------------------------------------------------------------
     # Students:
-    #   Do NOT touch the above  is_prime  function - it has no TODO.
+    #   Do NOT touch the above  is_prime  function - it has no TO DO.
     #   Do NOT copy code from this function.
     #
     # Instead, ** CALL ** this function as needed in the problems below.
     # ------------------------------------------------------------------
 
 
-def test_sum_until_prime_input():
+def run_test_sum_until_prime_input():
     """ Tests the   wait_for_prime_input   function by calling it. """
     print()
     print('--------------------------------------------------')
@@ -96,7 +96,7 @@ def sum_until_prime_input():
     # ------------------------------------------------------------------
 
 
-def test_next_prime():
+def run_test_next_prime():
     """ Tests the   next_prime    function. """
     # ------------------------------------------------------------------
     # TODO: 3. Implement this TEST function.
@@ -156,7 +156,7 @@ def test_next_prime():
     print('Actual:  ', actual)
     print('TEST ENDED!')
 
-    # TODO 3 (continued):
+    # TO DO 3 (continued):
     #   PUT YOUR TEST   ** IN THE SPACE BETWEEN **   the
     #   print('TEST STARTED!' ...) and print('TEST ENDED') lines below.
 
@@ -190,7 +190,7 @@ def next_prime(m):
     # ------------------------------------------------------------------
 
 
-def test_prime_gap():
+def run_test_prime_gap():
     """ Tests the   prime_gap    function. """
     print()
     print('--------------------------------------------------')
@@ -324,7 +324,7 @@ def prime_gap(m):
     # ------------------------------------------------------------------
 
 
-def test_wait_for_sum_of_cubes():
+def run_test_wait_for_sum_of_cubes():
     """ Tests the   wait_for_sum_of_cubes    function. """
     # ------------------------------------------------------------------
     # TODO: 6. Implement this TEST function.
@@ -393,7 +393,7 @@ def test_wait_for_sum_of_cubes():
     print('Actual:  ', actual)
     print('TEST ENDED!')
 
-    # TODO 6 (continued):
+    # TO DO 6 (continued):
     #   PUT YOUR TEST   ** IN THE SPACE BETWEEN **   the
     #   print('TEST STARTED!' ...) and print('TEST ENDED') lines below.
     #
@@ -406,7 +406,7 @@ def test_wait_for_sum_of_cubes():
 
     print('TEST ENDED!')
 
-    # TODO 6 (continued):
+    # TO DO 6 (continued):
     #   PUT YOUR TEST   ** IN THE SPACE BETWEEN **  the
     #   print('TEST STARTED!' ...) and print('TEST ENDED') lines below.
 

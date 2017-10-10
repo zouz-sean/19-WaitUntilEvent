@@ -5,7 +5,7 @@ This module demonstrates how to INPUT from the CONSOLE:
   -- strings.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.  October 2016.
+         their colleagues and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
@@ -39,7 +39,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 #   After you have PUT YOUR ANSWERS IN THIS COMMENT as described above,
 #     a. Find someone who has had HER answer checked.
 #        Ask her to check YOUR answers to the above.
-#     b. Change the above TODO to DONE.
+#     b. Change the above TO DO to DONE.
 #
 #   As always, ask questions as needed!
 ########################################################################
